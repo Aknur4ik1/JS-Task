@@ -1,4 +1,5 @@
 "use strict";
+// HW
 
 // Task 1
 let arr = [];
